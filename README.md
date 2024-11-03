@@ -14,8 +14,6 @@ The Prework Study guide can be used all throughout the bootcamp to look back at 
 
 ![alt text](assets/images/screenshot.png)
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
