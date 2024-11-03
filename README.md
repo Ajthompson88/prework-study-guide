@@ -12,6 +12,7 @@ N/A
 
 The Prework Study guide can be used all throughout the bootcamp to look back at and review whenever it is needed.
 
+![alt text](assets/images/screenshot.png)
 
 ![alt text](assets/images/screenshot.png)
 
